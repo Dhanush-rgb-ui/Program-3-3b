@@ -26,3 +26,5 @@ int main(){
 }
 ```
 ## Result:
+<img width="631" height="112" alt="image" src="https://github.com/user-attachments/assets/28b70cc9-1ba9-4399-bf3e-3b11454cf23b" />
+
